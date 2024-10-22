@@ -1,0 +1,11 @@
+{
+    "hello": ["Hello!", "Hi there!", "Greetings!", "Hey! How's it going?", "Nice to see you!"],
+    "how are you": ["I'm doing well, thank you!", "I'm fine, how about you?", "I'm great, thanks for asking!", "Feeling awesome, hope you are too!"],
+    "goodbye": ["Goodbye!", "See you later!", "Farewell!", "Take care!", "Talk to you soon!"],
+    "thanks": ["You're welcome!", "No problem!", "Happy to help!", "Anytime!", "Glad I could assist!"],
+    "what is your name": ["I am a chatbot!", "You can call me Chatbot.", "My name is Bot, what's yours?"],
+    "what can you do": ["I can chat with you, help you with questions, and make your day better!", "I can assist with basic tasks and provide information.", "I’m here to answer your questions and have a friendly conversation!"],
+    "what's the weather like": ["I can't check the weather right now, but you can use a weather app!", "Not sure about the weather, but I hope it's sunny!"],
+    "tell me a joke": ["Why don't scientists trust atoms? Because they make up everything!", "Why did the computer go to the doctor? It had a virus!", "What do you call fake spaghetti? An impasta!"],
+    "default": ["I'm sorry, I didn't understand.", "Could you please rephrase that?", "I'm not sure I follow, try asking something else!"]
+}
